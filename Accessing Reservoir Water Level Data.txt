@@ -1,0 +1,11 @@
+Accessing Reservoir Water Level Data from India WRIS Website
+
+1. Open India WRIS Website: Visit https://indiawris.gov.in/wris/#/ in your web browser.
+2. Navigate to Surface Water Storage Data for Reservoirs: Click on the "Water Data" tab, then select "Surface Water" from the dropdown menu. Next, choose "Storage" and then "Reservoir" from the subsequent dropdown menus.
+3. Access Data/Report Download Section: Scroll down to the bottom of the page. Below the data visualization section, you'll find a link labeled "Data/Report Download." Click on it to proceed.
+4. Provide Necessary Information: You may be prompted to provide certain information before accessing the data download section. This could include selecting a specific time range, geographical region, or other parameters relevant to your data requirements. Follow the on-screen instructions to provide the necessary information.
+5. Initiate Download: After providing the required information, look for an option to initiate the download. This could be a button labeled "Download" or similar. Click on it to start the download process.
+6. Verify Download: Once the download is complete, verify that the data files have been downloaded correctly. They may be in a compressed format (e.g., ZIP) or directly accessible as CSV, Excel, or other file formats.
+7. Proceed with Data Analysis: With the data downloaded, you can now proceed with analyzing and visualizing it using the tools and software of your choice.
+
+Following these steps should allow you to successfully download reservoir water level data from the India WRIS website. If you encounter any difficulties or additional prompts during the process, be sure to follow the on-screen instructions provided by the website.
